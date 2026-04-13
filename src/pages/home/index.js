@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 
 import logoQuiz from '../../assets/images/quiz.png'
 
-import './styles.css';
+import './style.css';
 
 export default function Home() {
   const navigate = useNavigate();
